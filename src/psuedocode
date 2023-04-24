@@ -1,0 +1,7 @@
+create a container that houses the flash card
+
+create the flash card cotent 
+
+create next, previous and random button to change the flash card cotent 
+
+create tests for all 3 instances next, random, previous
